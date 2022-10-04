@@ -26,3 +26,4 @@ function favoriteSong() {
 }
 let favoriteButton = document.querySelector("button");
 favoriteButton.addEventListener("click", favoriteSong);
+// test
